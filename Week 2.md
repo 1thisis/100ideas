@@ -1,0 +1,1 @@
+what the Internet is and how it came to be. Internet is something that connects computers globally which allows people to share informations and communicate online by simply transfering each packets(a pack of datas)that were sent from your computer to another through multiple different routers. 
