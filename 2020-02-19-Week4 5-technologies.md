@@ -8,6 +8,6 @@ The development of VR is mainly driven by two Industries: Game and Education. Ot
 Hyperloop is an ongoing project proposed and practiced by Elon Musk's company SpaceX. It's an innovative idea to change the future of the traffic system. This techonology is aimsing to create a transportation that is more efficient and organized by developing a traffic network underground with composite meaterials that are more affordable. 
 
 4. AR in Narrative Storytelling:
-After meeting Asad J Malik and learning about his Interactive studio 1RIC, I started to have more interetd in how to imply AR in narrative storytelling and even art making. 
+After meeting Asad J Malik and learning about his Interactive studio 1RIC, I started to have more interetd in how to imply AR in narrative storytelling and even art making. Using AR to create a interative movie expereince is innovative. As the form of Cinema have grown from 2D screening to 3D screening, audience desire towards a more realistic watching experience is growing as well. So the AR technology will be the key to open up the door towards the next cinema generation.  
 
 5. Self-driving Car:
